@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm James Dillon</h1>
-<h3 align="center">A Computer Science Student in Binus University</h3>
+<h1 align="">Hi 👋, I'm James Dillon</h1>
+<h3 align="">A Computer Science Student in Binus University</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
