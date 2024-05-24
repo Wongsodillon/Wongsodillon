@@ -1,5 +1,5 @@
 <h1 align="">Hello 👋, I'm James Dillon</h1>
-<h3 align="">A Computer Science Student in Binus University</h3>
+<h3 align="">Computer Science Student in Binus University</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Language Processing**
 
