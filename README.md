@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Language Processing**
 
 <p align="center">
-  <a href="https://wongsodillon.vercel.app/" target="_blank" style="display: inline-block; background-color: #000; color: white; padding: 15px 25px; text-decoration: none; font-size: 16px; border-radius: 5px; margin-top: 10px; border: 1px solid white">
+  <a href="https://www.wongsodillon.com/" target="_blank" style="display: inline-block; background-color: #000; color: white; padding: 15px 25px; text-decoration: none; font-size: 16px; border-radius: 5px; margin-top: 10px; border: 1px solid white">
     Visit My Portfolio
   </a>
 </p>
